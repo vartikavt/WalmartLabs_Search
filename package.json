@@ -1,11 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "WalmartLabs",
   "version": "1.0.0",
   "description": "Walmart Labs THA - REST search API",
+=======
+  "name": "learn_hapi",
+  "version": "1.0.0",
+>>>>>>> fdfc940c44b9ae1d541247fd0f84f8774fda687a
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vartikavt/WalmartLabs_Search.git"
@@ -17,4 +23,14 @@
     "url": "https://github.com/vartikavt/WalmartLabs_Search/issues"
   },
   "homepage": "https://github.com/vartikavt/WalmartLabs_Search#readme"
+=======
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.8.4"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+>>>>>>> fdfc940c44b9ae1d541247fd0f84f8774fda687a
 }
